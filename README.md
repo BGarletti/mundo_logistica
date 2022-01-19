@@ -1,2 +1,3 @@
 # mundo_logistica
-SCM Data
+
+Repositório para disseminação de conhecimento logístico
